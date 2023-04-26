@@ -31,7 +31,7 @@ Sample Test Cases
 ![test case](https://user-images.githubusercontent.com/121681949/234535798-1c87206e-cfba-430f-99cd-9b90e943c7ab.JPG)
 
 Test Summary Report
-![test report](https://user-images.githubusercontent.com/121681949/234535937-db4ba09a-ffc3-44ac-85e9-224505984768.JPG)
+![test report](https://user-images.githubusercontent.com/121681949/234536636-49dab4e8-823a-45a4-bdd5-a64a2dcaad1e.JPG)
 
 Bug Report
 ![bug report](https://user-images.githubusercontent.com/121681949/234536025-38d8b362-f9c1-41af-b287-9502cd6fcd92.JPG)
