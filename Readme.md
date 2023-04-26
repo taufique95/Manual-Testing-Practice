@@ -31,7 +31,6 @@ Sample Test Cases
 ![test case](https://user-images.githubusercontent.com/121681949/234535798-1c87206e-cfba-430f-99cd-9b90e943c7ab.JPG)
 
 Test Summary Report
-
 ![test report](https://user-images.githubusercontent.com/121681949/234536636-49dab4e8-823a-45a4-bdd5-a64a2dcaad1e.JPG)
 
 Bug Report
@@ -40,5 +39,6 @@ Bug Report
 Mindmap
 ![mindmap](https://user-images.githubusercontent.com/121681949/234536159-a451737b-3da6-44c8-99cf-e1a25cc407e8.JPG)
 
-Test Metrics
+Test Metrics 
+
 ![test metrics](https://user-images.githubusercontent.com/121681949/234536894-a1a3c33d-3083-462d-a36b-106b4da8f16b.JPG)
